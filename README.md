@@ -4,6 +4,7 @@ FEATURES
 1. LOGIN AND SIGNUP (Django)
 2. Payment (STRIPE)
 3. CART 
+4. Search Bar
 
 
 
